@@ -1,0 +1,2 @@
+You can attach the movemnet script to these and chage the animation state on a key press or something.
+There is the hot and cold version so you can switch between both prefabs whenever the player changes temp. but there might be a better way to do this?
